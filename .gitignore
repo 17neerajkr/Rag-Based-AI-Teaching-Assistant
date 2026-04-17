@@ -1,0 +1,15 @@
+# Ignore video files
+*.mp4
+*.webm
+
+# Ignore audio files
+*.mp3
+audios/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
